@@ -4,17 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="564e4bd0-2f08-47b8-a8c0-422e21f3946b" name="Changes" comment="Created main app">
+    <list default="true" id="564e4bd0-2f08-47b8-a8c0-422e21f3946b" name="Changes" comment="Created core config">
       <change afterPath="$PROJECT_DIR$/workout-tracker/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workout-tracker/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workout-tracker/core/config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workout-tracker/core/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/workout-tracker/core/config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/workout-tracker/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/workout-tracker/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,7 +46,8 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.black.configuration.BlackFormatterConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -119,12 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729007248127</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created core config">
+      <option name="closed" value="true" />
+      <created>1729007914475</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729007914475</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="Created main app" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created main app" />
+    <MESSAGE value="Created core config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created core config" />
   </component>
 </project>
