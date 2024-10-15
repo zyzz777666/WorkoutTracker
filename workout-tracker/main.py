@@ -1,6 +1,10 @@
 import uvicorn
 from fastapi import FastAPI
 
+from core.config import settings
+
+from api import router as api_router
+
 app = FastAPI()
 
 if __name__ == "__main__":
